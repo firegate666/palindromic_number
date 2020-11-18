@@ -1,0 +1,20 @@
+{
+    "name": "firegate666/palindromic",
+    "description": "Find palindromic numbers",
+    "type": "project",
+    "require": {
+        "phpmath/biginteger": "^2.1",
+        "phpunit/phpunit": "^9.4"
+    },
+    "authors": [
+        {
+            "name": "Marco Behnke",
+            "email": "marco@behnke.biz"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
